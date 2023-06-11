@@ -12,3 +12,5 @@ git pull
 - 3way other my test
 - 3way other confilct test
 
+
+- 테스트를 다시 진행
