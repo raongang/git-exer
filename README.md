@@ -6,4 +6,5 @@ git pull
 - pull 테스트
 
 - fast-forwart 테스트
+- 3way other
 
